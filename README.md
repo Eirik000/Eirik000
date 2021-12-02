@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Eirik000
+- 👀 I’m interested in computers in general, learnin code to be a software engineer.
+- 🌱 I’m currently learning Python(Django, turtle)
+- 💞️ I’m looking to collaborate on . . .(Working by myself until I become semi-competent)
+- 📫 How to reach me ... (Will make a public email eventually)
